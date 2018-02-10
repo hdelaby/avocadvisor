@@ -1,0 +1,57 @@
+@font-face {
+    font-family: bakerRegular;
+    src: url(bakerRegular.otf);
+}
+
+.block {
+    height: 400px;
+    margin: 0px 20px 20px 20px;
+}
+
+.col a {
+    color: white;
+    font-family: bakerRegular;
+    font-size: 30px;
+}
+
+.pricing {
+    background-color: rgb(238, 49, 53);
+}
+
+.arnaud {
+    background-color: rgb(0, 123, 102)
+}
+
+.calendar {
+    background-color: rgb(122, 2, 35);
+    margin-bottom: 40px;
+}
+
+.clients {
+    background-color: rgb(0, 40, 86);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.advising {
+    background-color: rgb(245, 130, 32);    
+}
+
+.partners {
+    background-color: rgb(194, 195, 196);
+    margin-left: 20px;
+}
+
+.half-block {
+    height: 180px;
+}
+
+.top-block {
+    height: 200px;
+}
+
+.topbar {
+    margin-top: 20px;
+    height: 200px;
+    margin-bottom: 20px;
+}
